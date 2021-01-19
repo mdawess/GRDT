@@ -1,0 +1,3 @@
+client_id = 'W3su_ylhX1sHOg'
+client_secret = '2nuNtAGM85ZGtBvWt45VwVNKdDzg2g'
+user_agent = 'wsb_scraper'

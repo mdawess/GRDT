@@ -1,0 +1,8 @@
+1. Build webscraper to get hot tickers from the subreddit
+    - Search for $
+    - Get the index on the page for the $
+    - do [$:5] to get 3-4 character tickers
+    - Strip blankspace
+    - Append to a dictionart in form 'ticker': count
+2. Connect to email/phone to ID when a ticker is hot
+3. $$$
